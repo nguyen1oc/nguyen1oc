@@ -16,9 +16,10 @@ My current goal is to develop my skills and gain experience, with the aim of hav
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="[https://www.pngwing.com/en/free-png-vcsvp#google_vignette](https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo-2048x1280.png)" alt="css" width="40" height="40"/> </a> 
-</p>
+<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo-2048x1280.png" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
+</p>
+
 
 
 <h3 align ="left"> Framworks and Libraries: </h3>
@@ -36,7 +37,7 @@ My current goal is to develop my skills and gain experience, with the aim of hav
 
 <h3 align ="left"> Tools & others: </h3>
 <p align="left">
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://cdn-icons-png.flaticon.com/512/25/25231.png)" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="(https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="git" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
