@@ -4,7 +4,10 @@
 <p>
   <ul>
       <li>
-          <b Jollibee's chicken is the best. \>
+          I love playing badminton, table tennis and swimming.
+      </li>
+      <li>
+          <b> Jollibee's chicken is the best. <\b>
       </li>
   </ul>  
 </p>
