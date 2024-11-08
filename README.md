@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nguyen1oc</h1>
+<h1 align="center">Hi 👋, I'm Lucas Nguyen</h1>
+<div> But you can also call me Nguyen Loc. I'm a third-year student at the University of Technology, majoring in Computer Science with a specialization in Artificial Intelligence and Applications. I have a strong passion for AI and machine learning, and I am eager to expand my knowledge and skills in this exciting field
+</div> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nguyen1oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen1oc" height="30" width="40" /></a>
