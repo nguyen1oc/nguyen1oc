@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Nguyen</h1>
-<div> But you can also call me Nguyen Loc. I'm a third-year student at the University of Technology, majoring in Computer Science with a specialization in Artificial Intelligence and Applications. I have a strong passion for AI and machine learning, and I am eager to expand my knowledge and skills in this exciting field
+<div> But you can also call me Nguyen Loc. I'm a third-year student at the University of Technology, majoring in Computer Science with a specialization in Artificial Intelligence and Applications. I have a strong passion for AI and machine learning, and I am eager to expand my knowledge and skills in this exciting field.
+My current goal is to develop my skills and gain experience, with the aim of having more opportunities to participate in AI-related projects.
 </div> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
