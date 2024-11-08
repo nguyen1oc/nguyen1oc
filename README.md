@@ -7,7 +7,7 @@
           I love playing badminton, table tennis and swimming.
       </li>
       <li>
-          <b> Jollibee's chicken is the best. <\b>
+          <b> Jollibee's chicken is the best.
       </li>
   </ul>  
 </p>
@@ -18,6 +18,7 @@
 <a href="https://linkedin.com/in/nguyen1oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen1oc" height="30" width="40" /></a>
 <a href="https://fb.com/nnnguyen.loc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen1oc" height="30" width="40" /></a>
 <a href="https://instagram.com/__nnguyenloc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__nnguyenloc" height="30" width="40" /></a>
+Or you can contact me through: <a href ="locnguyen1606.cse@gmail.com> locnguyen1606.cse@gmail.com </a>
 </p>
 
 <h3 align ="left">Languages: </h3>
