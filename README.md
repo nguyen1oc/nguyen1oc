@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lucas Nguyen</h1>
-<p> But you can also call me Nguyen Loc. I'm a third-year student at the University of Technology, majoring in Computer Science with a specialization in Artificial Intelligence and Applications. I have a strong passion for AI, machine learning, deap learning, and I am eager to expand my knowledge and skills in this exciting field.
-My current goal is to develop my skills and gain experience, with the aim of having more opportunities to participate in AI-related projects.
+<p> But you can also call me <b>Nguyen Loc</b>. I'm a third-year student at the <a href = "https://hcmut.edu.vn/" > HCM University of Technology </a>, majoring in <b>Computer Science </b> with a specialization in <b>Artificial Intelligence and Applications</b>. I have a strong passion for AI, machine learning, deap learning, and I am eager to expand my knowledge and skills in this exciting field. My current goal is to develop my skills and gain experience, with the aim of having more opportunities to participate in AI-related projects.
 </p> 
+<p>
+  <ul>
+      <li>
+          Hobby:
+      </li>
+  </ul>  
+</p>
+
+
 <h3 align="left">Connect with me via:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nguyen1oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen1oc" height="30" width="40" /></a>
@@ -16,7 +24,7 @@ My current goal is to develop my skills and gain experience, with the aim of hav
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo-2048x1280.png" alt="css" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png" alt="css" width="40" height="40"/> </a> 
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
 </p>
 
@@ -31,6 +39,7 @@ My current goal is to develop my skills and gain experience, with the aim of hav
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s" alt="react" width="40" height="40"/> </a> 
 
 
 </p>
