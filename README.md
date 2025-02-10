@@ -4,9 +4,6 @@
 <p>
   <ul>
       <li>
-          I love playing badminton, table tennis and swimming.
-      </li>
-      <li>
           <b> Jollibee's chicken is the best.
       </li>
   </ul>  
